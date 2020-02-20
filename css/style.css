@@ -1,0 +1,27 @@
+body{
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+section, footer{
+    margin-top: 2rem;
+}
+
+.css{
+    margin: 4rem 4rem 0 0;
+}
+
+.img{
+    max-width: 50%;
+}
+
+.nav-link{
+    margin-right: 3rem;
+}
+.fixedText{
+    clear: both;
+}
+#border{
+    border-bottom: 1px solid black;
+}
+
+
