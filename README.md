@@ -1,2 +1,3 @@
 # Web-page
-This page use live data to get the information. Technologies used Vue, Boostrapt and Js.
+Esta pagina usa data en vivo para obtener la informacion. 
+Tecnologias usadas Vue.js, Boostrap, html5, css3 y javascript
